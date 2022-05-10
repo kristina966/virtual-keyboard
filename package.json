@@ -1,0 +1,25 @@
+{
+    "name": "virtual-keyboard",
+    "version": "1.0.0",
+    "description": "### Deadline: 05.04.2020 23:59",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://kristina966.github.io/virtual-keyboard.git"
+    },
+    "keywords": [],
+    "author": "Drozdova Khristina",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://kristina966.github.io/virtual-keyboard/issues"
+    },
+    "homepage": "https://kristina966.github.io/virtual-keyboard/index.html",
+    "devDependencies": {
+      "eslint": "^8.4.0",
+      "eslint-config-airbnb-base": "^15.0.0",
+      "eslint-plugin-import": "^2.25.3"
+    }
+  }
